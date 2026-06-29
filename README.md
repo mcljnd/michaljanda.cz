@@ -1,5 +1,5 @@
 # michaljanda.cz
 
-Mastodon - [https://mamutovo.cz/@MichalJanda](https://mamutovo.cz/@MichalJanda)
+Mastodon - <a rel="me" href="https://mamutovo.cz/@MichalJanda">@MichalJanda@mamutovo.cz</a>
 
-Bluesky - [https://bsky.app/profile/michaljanda.cz](https://bsky.app/profile/michaljanda.cz)
+Bluesky - [https://bsky.app/profile/michaljanda.cz](@michaljanda.cz)
